@@ -1,0 +1,14 @@
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\bin\Debug\net8.0\Exercicio Proposto Enum e Composição.exe
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\bin\Debug\net8.0\Exercicio Proposto Enum e Composição.deps.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\bin\Debug\net8.0\Exercicio Proposto Enum e Composição.runtimeconfig.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\bin\Debug\net8.0\Exercicio Proposto Enum e Composição.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\bin\Debug\net8.0\Exercicio Proposto Enum e Composição.pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\Exercicio Proposto Enum e Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\Exercicio Proposto Enum e Composição.AssemblyInfoInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\Exercicio Proposto Enum e Composição.AssemblyInfo.cs
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\Exercicio Proposto Enum e Composição.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\Exercicio Proposto Enum e Composição.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\refint\Exercicio Proposto Enum e Composição.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\Exercicio Proposto Enum e Composição.pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\Exercicio Proposto Enum e Composição.genruntimeconfig.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto Enum e Composição\Exercicio Proposto Enum e Composição\obj\Debug\net8.0\ref\Exercicio Proposto Enum e Composição.dll
